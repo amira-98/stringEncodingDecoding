@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493665061 source:c:\users\amira\desktop\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodd.h"
+
+1493507743 c:\users\amira\desktop\projet\nodd.h
+
+1493672931 source:c:\users\amira\desktop\projet\nodd.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
